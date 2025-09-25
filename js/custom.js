@@ -25,7 +25,7 @@ $(document).ready(function(){
 		
 		// Detect section and add specific classes
 		$('.effects').each(function(){
-			if ($(window).scrollTop() > ($(this).offset().top-2000)) {
+			if ($(window).scrollTop() > ($(this).offset().top-800)) {
 				if ($(this).hasClass('effects--fade-in')) {
 					$(this).addClass('fadeIn');
 				}
