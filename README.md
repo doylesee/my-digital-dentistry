@@ -1,8 +1,8 @@
 ## Project Overview
 <pre>
-<b>Project:</b>   My Digital Dentistry
-<b>Role:</b>      Web Developer
-<b>Tools:</b>     Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
+<b>Project:</b>  My Digital Dentistry
+<b>Role:</b>     Web Developer
+<b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
 
 <br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/">View project</a></strong>
