@@ -5,7 +5,7 @@
 <b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
 
-<br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/">View project</a></strong>
+<br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
 
 <br />
 
@@ -33,4 +33,4 @@ Rigorously tested and optimized all viewport-triggered script cycles and animati
 ## Results & Impact
 The project launched as a sleek, fast, and interactive one-page WordPress experience that brilliantly brought the design team’s Photoshop mockups to life. By combining efficient engineering with eye-catching fold animations, I delivered a responsive and cross-browser compatible microsite that drastically boosted user interaction times on the page while maintaining strict performance standards.
 
-<br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/">View project</a></strong>
+<br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
