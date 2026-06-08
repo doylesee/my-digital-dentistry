@@ -4,8 +4,7 @@
 <b>Role:</b>     Web Developer
 <b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
-
-<br /><strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
+<strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
 
 <br />
 
