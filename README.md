@@ -2,7 +2,7 @@
 <pre>
 <b>Project:</b>  My Digital Dentistry
 <b>Role:</b>     Web Developer
-<b>Tools:</b>    Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
+<b>Tools:</b>    Photoshop, Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
 <strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
 
