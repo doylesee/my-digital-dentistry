@@ -4,8 +4,12 @@
 <b>Role:</b>     Web Developer
 <b>Tools:</b>    Photoshop, Wordpress, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
 </pre>
-<strong><a href="http://doylesee.github.io/my-digital-dentistry/" rel="noopener noreferrer">View project</a></strong>
 
+### Table of Contents
+* [The Challenge](#the-challenge)
+* [My Approach & Implementation](#my-approach--implementation)
+* [Results & Impact](#results--impact)
+* [View Project](http://doylesee.github.io/my-digital-dentistry/)
 <br />
 
 ## The Challenge
